@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+URL:https://hopin.com/events/black-is-tech-conference-2022
+DTSTART:20220913T183000Z
+DTEND:20220913T193000Z
+SUMMARY:Azure Cloud: Defense In Depth
+DESCRIPTION:https://hopin.com/cal/VOV6sxUuigel5yqW4ueJcNVeP
+LOCATION:Hosted virtually on Hopin (link in the description)
+END:VEVENT
+END:VCALENDAR

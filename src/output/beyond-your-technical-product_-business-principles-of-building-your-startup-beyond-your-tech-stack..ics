@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+URL:https://hopin.com/events/black-is-tech-conference-2022
+DTSTART:20220915T170000Z
+DTEND:20220915T174000Z
+SUMMARY:Beyond your technical product: Business Principles of building your startup beyond your tech stack. 
+DESCRIPTION:https://hopin.com/cal/E2KVsvrHg7pTtcTV4OokwDlM4
+LOCATION:Hosted virtually on Hopin (link in the description)
+END:VEVENT
+END:VCALENDAR

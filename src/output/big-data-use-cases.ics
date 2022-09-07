@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+URL:https://hopin.com/events/black-is-tech-conference-2022
+DTSTART:20220916T161500Z
+DTEND:20220916T170000Z
+SUMMARY:Big Data Use Cases 
+DESCRIPTION:https://hopin.com/cal/tLIeFlaXxCwYPObKaRsqV7nXd
+LOCATION:Hosted virtually on Hopin (link in the description)
+END:VEVENT
+END:VCALENDAR

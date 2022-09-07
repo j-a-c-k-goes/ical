@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+URL:https://hopin.com/events/black-is-tech-conference-2022
+DTSTART:20220916T183000Z
+DTEND:20220916T190000Z
+SUMMARY:Technical Writing
+DESCRIPTION:https://hopin.com/cal/dmUivRr8uKpksJDLPSH8LJI8c
+LOCATION:Hosted virtually on Hopin (link in the description)
+END:VEVENT
+END:VCALENDAR

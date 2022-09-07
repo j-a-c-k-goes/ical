@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+URL:https://hopin.com/events/black-is-tech-conference-2022
+DTSTART:20220913T161500Z
+DTEND:20220913T170000Z
+SUMMARY:Test Driven Development: A modern approach to Software Quality Assurance
+DESCRIPTION:https://hopin.com/cal/LaNSVEunqcTUfFDLS9c1ITkPj
+LOCATION:Hosted virtually on Hopin (link in the description)
+END:VEVENT
+END:VCALENDAR

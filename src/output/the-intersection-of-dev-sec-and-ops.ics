@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+URL:https://hopin.com/events/black-is-tech-conference-2022
+DTSTART:20220914T193000Z
+DTEND:20220914T200000Z
+SUMMARY:The Intersection of Dev, Sec & Ops
+DESCRIPTION:https://hopin.com/cal/Y2NIo1Ilu6ulmdXNCGs3483Ig
+LOCATION:Hosted virtually on Hopin (link in the description)
+END:VEVENT
+END:VCALENDAR

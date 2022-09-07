@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+URL:https://hopin.com/events/black-is-tech-conference-2022
+DTSTART:20220914T170000Z
+DTEND:20220914T174500Z
+SUMMARY:I Thought Web3 Was Secure? Understanding Security in the Blockchain Era
+DESCRIPTION:https://hopin.com/cal/WEGWu5TqrD426VO2YHbRZaIau
+LOCATION:Hosted virtually on Hopin (link in the description)
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+URL:https://hopin.com/events/black-is-tech-conference-2022
+DTSTART:20220913T200000Z
+DTEND:20220913T204500Z
+SUMMARY:Rewriting our Tech History: A Case Study 
+DESCRIPTION:https://hopin.com/cal/xzKPUXpwBucgEh3b21yTpavEe
+LOCATION:Hosted virtually on Hopin (link in the description)
+END:VEVENT
+END:VCALENDAR
